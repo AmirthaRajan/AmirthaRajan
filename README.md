@@ -1,4 +1,4 @@
-<div class="markdown-converter__text--rendered"><p>Hi, <br> I am a Fullstack Developer, a Game Designer and a Creator... and currently passionate in the field of MAchine Learning and AI</p>
+<div class="markdown-converter__text--rendered"><p>Hi, <br> I am a Fullstack Developer, a Game Designer and a Creator... and currently passionate in the field of Machine Learning and AI </p>
 
 <hr>
 
