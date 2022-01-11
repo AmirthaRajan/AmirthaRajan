@@ -1,9 +1,11 @@
 <div class="markdown-converter__text--rendered"><p>Hi, <br> I am a Fullstack Developer, a Game Designer and a Creator... and currently passionate in the field of Machine Learning and AI </p>
 
+  
 <a href="https://github.com/AmirthaRajan">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmirthaRajan&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirthaRajan&layout=compact&langs_count=8&theme=onedark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmirthaRajan&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirthaRajan&layout=compact&langs_count=8&theme=radical"/>
 </a>
+  
   
 <hr>
 
